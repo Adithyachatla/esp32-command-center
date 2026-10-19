@@ -1,0 +1,25 @@
+# PlatformIO / VS Code
+.pio/
+.vscode/
+*.code-workspace
+
+# Private configuration - never commit real credentials
+include/secrets.h
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Windows / macOS / Linux junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+*~
