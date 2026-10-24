@@ -1,4 +1,4 @@
-# Security
+# Security 👾
 
 JARVIS is a **hobby / educational project. Its access control is not production-grade.** Do not use it to guard anything
 where a failure could cause harm, loss or safety risk (for example mains-powered equipment).
