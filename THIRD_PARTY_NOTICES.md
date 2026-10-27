@@ -27,7 +27,7 @@ not sold on their own. Some of these fonts declare a *Reserved Font Name*; the f
 | Permanent Marker | Apache License 2.0 |
 | Special Elite | Apache License 2.0 |
 
-The notebook-style artwork in the PDF (name tag, ticket, stickers, board sketch, pixel skull) is original to this project.
+The notebook-style artwork in the PDF is original to this project!.
 
 ## Libraries (downloaded by PlatformIO, **not** included in this repository)
 
